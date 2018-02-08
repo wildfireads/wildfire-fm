@@ -40,7 +40,7 @@
 
 
 
-   <link rel="stylesheet" href="/style.css">
+   <link rel="stylesheet" href="http://www.wildfire.fm/style.css">
 
         
     </body>
