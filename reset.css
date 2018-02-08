@@ -51,12 +51,12 @@ padding-bottom: 0.5em;
  
 code:before {
     content: "//";
-    margin-right: 6px;
+    margin-right: 3px;
 }
 
 code:after {
     content: "//";
-    margin-left: 6px;
+    margin-left: 3px;
 }
 
  /* Text Styles */
