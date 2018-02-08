@@ -44,6 +44,8 @@ code {
 
 }
 
+p code { background-color: red; color: white }
+
 code p{
 
 padding-bottom: 0.5em; 
