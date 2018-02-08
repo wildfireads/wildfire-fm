@@ -36,7 +36,12 @@
         
    <!-- minified JS -->
         
-   <!-- /minified JS -->        
+   <!-- /minified JS -->  
+
+
+
+   <link rel="stylesheet" href="/style.css">
+
         
     </body>
 </html>
