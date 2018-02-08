@@ -25,6 +25,9 @@
     <body>
 
 
+  <div class="container" style="background-color: #fefdfb; border:5px solid rgb(110, 85, 52); padding:50px;">
+
+
 <ul class="nav nav-pills">
   <li class="nav-item">
     <a class="nav-link active" href="#">Active</a>
@@ -46,10 +49,10 @@
     <a class="nav-link disabled" href="#">Disabled</a>
   </li>
 </ul>
- 
+</div>
 
 
-  <div class="container" style="background-color: #fefdfb; border:5px solid rgb(110, 85, 52); padding:50px; margin-top:50px;">
+  <div class="container" style="background-color: #fefdfb; border:5px solid rgb(110, 85, 52); padding:50px; border-top:0;">
 
 <h1>Nulla vitae erat rutrum, vestibulum semnec</h1>
 
