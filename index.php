@@ -26,7 +26,7 @@
  
 
 
-  <div class="container" style="background-color: #ebebeb;">
+  <div class="container" style="background-color: #ebebeb; border:5px solid rgb(110, 85, 52) ">
 
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi congue imperdiet nibh, lobortis luctus est. Vestibulum urna diam, viverra porttitor augue quis, faucibus lacinia lacus. Sed feugiat pretium turpis, vitae euismod mauris elementum sed. Curabitur euismod mi sit amet ante bibendum, at dictum ante auctor. Aenean pulvinar enim vel elit convallis cursus. Ut ultrices suscipit volutpat. Cras tincidunt lorem nibh, eget luctus enim lacinia eget. Vivamus convallis arcu velit, vitae viverra nibh feugiat non. Sed eu ipsum ante. Fusce finibus, massa a placerat aliquam, nibh ante feugiat leo, at vestibulum purus mi nec sapien. Quisque bibendum nec mi id elementum. Suspendisse dignissim, augue ut iaculis scelerisque, turpis ligula dapibus mi, sit amet malesuada nibh nisi lacinia nisi. Sed ultrices auctor risus non sodales. Nunc id nisl vel quam venenatis imperdiet.</p>
