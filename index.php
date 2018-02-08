@@ -25,7 +25,7 @@
     <body>
 
 
-  <div class="container" style="background-color: #fefdfb; border:5px solid rgb(110, 85, 52); padding:50px;">
+  <div class="container" style="background-color: rgb(110, 85, 52); border:5px solid rgb(110, 85, 52); padding:50px;">
 
 
 <div class="container">
