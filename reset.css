@@ -52,15 +52,7 @@ padding-bottom: 0.5em;
 
 }
  
-code:before {
-    content: "//";
-    margin-right: 3px;
-}
-
-code:after {
-    content: "//";
-    margin-left: 3px;
-}
+ 
 
  /* Text Styles */
  p, th, td, li, dd, dt, ul, ol,  q, acronym, abbr, a, input, select, textarea {
