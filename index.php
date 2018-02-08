@@ -1,14 +1,21 @@
 <!doctype html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Wildfire Advertising Inc.</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    </head>
+<html lang="en" class="tr-coretext tr-aa-subpixel">
+
+<head>
+    
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<title>Wildfire Advertising Inc.</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+	<!-- minified CSS -->
+    
+	<!-- /minified CSS -->  
+    
+</head>
     
     
     <body>
@@ -19,10 +26,14 @@
         
         
 
-
-        <script>
-
-        </script>
+        
+        
+        
+        
+   <!-- minified JS -->
+        
+   <!-- /minified JS -->        
+        
     </body>
 </html>
 
