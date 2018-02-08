@@ -29,8 +29,15 @@ background-color: #080808;
 font-family: 'Oswald', sans-serif;
 font-weight: 600 !important;
 letter-spacing: -0.05em;
+text-transform: uppercase;
  }
- 
+
+
+ h1 { padding-bottom: 0.5em; }
+ h2 { padding-bottom: 0.5em; }
+
+
+
  /* Text Styles */
  p, th, td, li, dd, dt, ul, ol,  q, acronym, abbr, a, input, select, textarea {
  margin: 0;
