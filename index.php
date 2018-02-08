@@ -15,6 +15,7 @@
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
    <link rel="stylesheet" href="http://www.wildfire.fm/reset.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/emojione@3.1.2/extras/css/emojione.min.css"/>
 
    <!-- /minified CSS -->  
     
@@ -32,7 +33,7 @@
 
 <h1>Nulla vitae erat rutrum, vestibulum semnec</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi congue imperdiet nibh, lobortis luctus est. Vestibulum urna diam, viverra porttitor augue quis, faucibus lacinia lacus. Sed feugiat pretium turpis, vitae euismod mauris elementum sed. Curabitur euismod mi sit amet ante bibendum, at dictum ante auctor. Aenean pulvinar enim vel elit convallis cursus. Ut ultrices suscipit volutpat. Cras tincidunt lorem nibh, eget luctus enim lacinia eget. Vivamus convallis arcu velit, vitae viverra nibh feugiat non. Sed eu ipsum ante. Fusce finibus, massa a placerat aliquam, nibh ante feugiat leo, at vestibulum purus mi nec sapien. Quisque bibendum nec mi id elementum. Suspendisse dignissim, augue ut iaculis scelerisque, turpis ligula dapibus mi, sit amet malesuada nibh nisi lacinia nisi. Sed ultrices auctor risus non sodales. Nunc id nisl vel quam venenatis imperdiet.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi congue imperdiet nibh, lobortis luctus est. Vestibulum urna diam, viverra porttitor augue quis, faucibus lacinia lacus. Sed feugiat pretium turpis, vitae euismod mauris elementum sed. Curabitur euismod mi sit amet ante bibendum, at dictum ante auctor. Aenean pulvinar enim vel elit convallis cursus. Ut ultrices suscipit volutpat. Cras tincidunt lorem nibh, eget luctus enim lacinia eget. Vivamus convallis arcu velit, vitae viverra nibh feugiat non. Sed eu ipsum ante. Fusce finibus, massa a placerat aliquam, nibh ante feugiat leo, at vestibulum purus mi nec sapien. Quisque bibendum nec mi id elementum. Suspendisse dignissim, augue ut iaculis scelerisque, turpis ligula dapibus mi, sit amet malesuada nibh nisi lacinia nisi. Sed ultrices auctor risus non sodales. Nunc id nisl vel quam venenatis imperdiet.  :blush: </p>
 
 <p>Nulla vitae erat rutrum, vestibulum sem nec, porttitor elit. Quisque faucibus fermentum orci, vel dictum nulla dapibus eget. Nunc semper ultricies mauris, at aliquet erat. Vestibulum vitae velit pharetra, pretium sem a, convallis velit. Morbi vitae tortor tristique, faucibus magna et, commodo arcu. Quisque volutpat lectus scelerisque leo tincidunt posuere. Mauris dignissim pharetra purus. Praesent nec scelerisque libero, ut vestibulum tellus.</p>
 
@@ -62,7 +63,12 @@
         
         
    <!-- minified JS -->
-        
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+   <script src="https://cdn.jsdelivr.net/npm/emojione@3.1.2/lib/js/emojione.min.js"></script>
    <!-- /minified JS -->  
 
 
