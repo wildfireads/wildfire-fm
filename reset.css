@@ -50,8 +50,13 @@ padding-bottom: 0.5em;
 }
  
 code:before {
-    content: "»";
+    content: "//";
     margin-right: 6px;
+}
+
+code:after {
+    content: "//";
+    margin-left: 6px;
 }
 
  /* Text Styles */
