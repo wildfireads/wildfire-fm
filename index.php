@@ -26,9 +26,7 @@
  
 
 
-  <div class="container" style="background-color: red;">
-Hello World
-  </div>
+  <div class="container" style="background-color: red;"> Hello World </div>
         
         
 
