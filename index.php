@@ -4,16 +4,14 @@
 
 <head>
     
-    <meta charset="utf-8">
-    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-	<title>Wildfire Advertising Inc.</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
+   <meta charset="utf-8"> 
+   <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+   <title>Wildfire Advertising Inc.</title>
+   <meta name="description" content="">
+   <meta name="author" content="">
 
-	<!-- minified CSS -->
-    
-	<!-- /minified CSS -->  
+   <!-- minified CSS -->
+   <!-- /minified CSS -->  
     
 </head>
     
